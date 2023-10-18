@@ -33,3 +33,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/dotnet-coding-test/Acutro.JobInterviewTest/.vs
+/dotnet-coding-test/Acutro.JobInterviewTest/JobInterviewTest/bin/Debug
+/dotnet-coding-test/Acutro.JobInterviewTest/JobInterviewTest/obj
